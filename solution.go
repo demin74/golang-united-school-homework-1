@@ -7,6 +7,6 @@ import (
 
 func GetMessage() string {
 
-	 return fmt.Sprint("Hello :world_map: !")
+	 return fmt.Sprint("Hello 🗺️ !")
 
 }
