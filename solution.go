@@ -1,12 +1,12 @@
 package solution
 
-// import (
-// 	"github.com/kyokomi/emoji"
-// )
+import (
+	"fmt"
+)
 
 
 func GetMessage() string {
 
-	 return Sprint("Hello :world_map: !")
+	 return fmt.Sprint("Hello :world_map: !")
 
 }
